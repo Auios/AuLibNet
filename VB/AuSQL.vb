@@ -1,6 +1,6 @@
 Imports MySql.Data.MySqlClient
 
-Public Class EasySQL
+Public Class AuSQL
     'Home grown class for quick and easy SQL stuff
 
     Public cnStr As String
