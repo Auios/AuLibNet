@@ -1,0 +1,7 @@
+C:\Users\Auios\Documents\Visual Studio 2015\Projects\AuLib\AuLib\bin\Debug\AuLib.dll
+C:\Users\Auios\Documents\Visual Studio 2015\Projects\AuLib\AuLib\bin\Debug\AuLib.pdb
+C:\Users\Auios\Documents\Visual Studio 2015\Projects\AuLib\AuLib\bin\Debug\MySql.Data.dll
+C:\Users\Auios\Documents\Visual Studio 2015\Projects\AuLib\AuLib\bin\Debug\MySql.Data.xml
+C:\Users\Auios\Documents\Visual Studio 2015\Projects\AuLib\AuLib\obj\Debug\AuLib.csprojResolveAssemblyReference.cache
+C:\Users\Auios\Documents\Visual Studio 2015\Projects\AuLib\AuLib\obj\Debug\AuLib.dll
+C:\Users\Auios\Documents\Visual Studio 2015\Projects\AuLib\AuLib\obj\Debug\AuLib.pdb
